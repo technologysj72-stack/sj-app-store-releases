@@ -1,9 +1,52 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T13:04:09.239Z",
+  "generatedAt": "2026-10-31T15:34:40.039Z",
   "repository": "technologysj72-stack/sj-app-store-releases",
-  "applicationCount": 1,
+  "applicationCount": 2,
   "applications": [
+    {
+      "id": "agenda-pro",
+      "name": "MeusLembretes",
+      "category": "Produtividade",
+      "shortDescription": "Organize compromissos e tarefas num só lugar.",
+      "description": "Agenda Pro é uma aplicação para organizar compromissos, tarefas e atividades.",
+      "version": "1.0.0",
+      "platforms": [
+        "Android",
+        "Windows"
+      ],
+      "price": 0,
+      "rating": 0,
+      "downloads": 2,
+      "featured": true,
+      "isNew": true,
+      "accent": "violet",
+      "icon": "briefcase",
+      "developer": "SJ Technology",
+      "size": "13.1MB",
+      "image": "",
+      "imageAsset": "",
+      "releaseTag": "MeusLembretes",
+      "releaseUrl": "https://github.com/technologysj72-stack/sj-app-store-releases/releases/tag/MeusLembretes",
+      "publishedAt": "2026-10-31T13:03:43Z",
+      "installers": {
+        "Android": {
+          "name": "MeusLembretes.apk",
+          "url": "https://github.com/technologysj72-stack/sj-app-store-releases/releases/download/MeusLembretes/MeusLembretes.apk",
+          "size": 13763397,
+          "downloadCount": 1,
+          "contentType": "application/vnd.android.package-archive"
+        },
+        "Windows": {
+          "name": "MeusLembretes.exe",
+          "url": "https://github.com/technologysj72-stack/sj-app-store-releases/releases/download/MeusLembretes/MeusLembretes.exe",
+          "size": 1394992,
+          "downloadCount": 1,
+          "contentType": "application/x-msdownload"
+        }
+      },
+      "source": "github"
+    },
     {
       "id": "cashcollect",
       "name": "CashCollect",
