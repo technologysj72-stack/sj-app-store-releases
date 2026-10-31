@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T16:44:17.357Z",
+  "generatedAt": "2026-10-31T16:46:18.201Z",
   "repository": "technologysj72-stack/sj-app-store-releases",
   "applicationCount": 3,
   "applications": [
@@ -8,8 +8,8 @@
       "id": "gestor-pos",
       "name": "Gestor POS Gráficas",
       "category": "Gestão",
-      "shortDescription": "Organize as suas enconomias sua gestao simples suas vendas e registar os teus produtos e venda automático.",
-      "description": "AGESTOR POS é uma aplicação que ajuda a gerir seu negócio com as actividades avançadas e criatividades e automáticos, tarefas e atividades.",
+      "shortDescription": "Organize o seu negócio, gira produtos, registe vendas e controle as suas operações.",
+      "description": "Gestor POS Gráficas é uma aplicação de gestão comercial que permite organizar produtos, gerir vendas e acompanhar as atividades do seu negócio. Disponível para Android.",
       "version": "2.0.0",
       "platforms": [
         "Android"
@@ -22,7 +22,7 @@
       "accent": "violet",
       "icon": "briefcase",
       "developer": "SJ Technology",
-      "size": "4.79MB",
+      "size": "4.79 MB",
       "image": "https://github.com/technologysj72-stack/sj-app-store-releases/releases/download/gestor-pos-v2.0.0/gestor.POS.jpg",
       "imageAsset": "gestor.POS.jpg",
       "releaseTag": "gestor-pos-v2.0.0",
