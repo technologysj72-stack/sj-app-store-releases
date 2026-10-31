@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T16:46:18.201Z",
+  "generatedAt": "2026-10-31T17:21:12.138Z",
   "repository": "technologysj72-stack/sj-app-store-releases",
   "applicationCount": 3,
   "applications": [
@@ -16,7 +16,7 @@
       ],
       "price": 1000,
       "rating": 0,
-      "downloads": 0,
+      "downloads": 1,
       "featured": true,
       "isNew": true,
       "accent": "violet",
@@ -33,7 +33,7 @@
           "name": "gestor.POS.apk",
           "url": "https://github.com/technologysj72-stack/sj-app-store-releases/releases/download/gestor-pos-v2.0.0/gestor.POS.apk",
           "size": 5024542,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "contentType": "application/vnd.android.package-archive"
         }
       },
