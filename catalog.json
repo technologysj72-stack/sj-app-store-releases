@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T15:58:01.017Z",
+  "generatedAt": "2026-10-31T15:58:15.453Z",
   "repository": "technologysj72-stack/sj-app-store-releases",
   "applicationCount": 2,
   "applications": [
@@ -12,8 +12,7 @@
       "description": "Agenda Pro é uma aplicação para organizar compromissos, tarefas e atividades.",
       "version": "1.0.0",
       "platforms": [
-        "Android",
-        "Windows"
+        "Android"
       ],
       "price": 0,
       "rating": 0,
@@ -34,15 +33,8 @@
           "name": "MeusLembretes.apk",
           "url": "https://github.com/technologysj72-stack/sj-app-store-releases/releases/download/MeusLembretes/MeusLembretes.apk",
           "size": 13763397,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "contentType": "application/vnd.android.package-archive"
-        },
-        "Windows": {
-          "name": "MeusLembretes.exe",
-          "url": "https://github.com/technologysj72-stack/sj-app-store-releases/releases/download/MeusLembretes/MeusLembretes.exe",
-          "size": 1394992,
-          "downloadCount": 1,
-          "contentType": "application/x-msdownload"
         }
       },
       "source": "github"
