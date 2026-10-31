@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:16:28.410Z",
+  "generatedAt": "2026-10-31T12:27:48.527Z",
   "repository": "technologysj72-stack/sj-app-store-releases",
   "applicationCount": 1,
   "applications": [
@@ -16,15 +16,15 @@
       ],
       "price": 0,
       "rating": 0,
-      "downloads": 4,
+      "downloads": 5,
       "featured": true,
       "isNew": true,
       "accent": "green",
       "icon": "wallet",
       "developer": "SJ Technology",
       "size": "25 MB",
-      "image": "",
-      "imageAsset": "",
+      "image": "https://github.com/technologysj72-stack/sj-app-store-releases/releases/download/cashcollect-v1.0.0/CASHCOLLECT-LOGO.png",
+      "imageAsset": "CASHCOLLECT-LOGO.png",
       "releaseTag": "cashcollect-v1.0.0",
       "releaseUrl": "https://github.com/technologysj72-stack/sj-app-store-releases/releases/tag/cashcollect-v1.0.0",
       "publishedAt": "2026-10-30T15:31:05Z",
@@ -33,7 +33,7 @@
           "name": "CASHCOLLECT.apk",
           "url": "https://github.com/technologysj72-stack/sj-app-store-releases/releases/download/cashcollect-v1.0.0/CASHCOLLECT.apk",
           "size": 25084110,
-          "downloadCount": 4,
+          "downloadCount": 5,
           "contentType": "application/vnd.android.package-archive"
         }
       },
