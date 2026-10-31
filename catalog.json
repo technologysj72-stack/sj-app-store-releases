@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T15:34:40.039Z",
+  "generatedAt": "2026-10-31T15:43:03.596Z",
   "repository": "technologysj72-stack/sj-app-store-releases",
   "applicationCount": 2,
   "applications": [
     {
-      "id": "agenda-pro",
+      "id": "lembrete-e-name-lembrete",
       "name": "MeusLembretes",
       "category": "Produtividade",
       "shortDescription": "Organize compromissos e tarefas num só lugar.",
