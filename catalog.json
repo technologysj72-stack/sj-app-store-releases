@@ -1,9 +1,44 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T16:40:14.182Z",
+  "generatedAt": "2026-10-31T16:42:16.486Z",
   "repository": "technologysj72-stack/sj-app-store-releases",
-  "applicationCount": 2,
+  "applicationCount": 3,
   "applications": [
+    {
+      "id": "gestor-pos",
+      "name": "Gestor POS Gráficas",
+      "category": "Gestão",
+      "shortDescription": "Organize as suas enconomias sua gestao simples suas vendas e registar os teus produtos e venda automático.",
+      "description": "AGESTOR POS é uma aplicação que ajuda a gerir seu negócio com as actividades avançadas e criatividades e automáticos, tarefas e atividades.",
+      "version": "2.0.0",
+      "platforms": [
+        "Android"
+      ],
+      "price": 1000,
+      "rating": 0,
+      "downloads": 0,
+      "featured": true,
+      "isNew": true,
+      "accent": "violet",
+      "icon": "briefcase",
+      "developer": "SJ Technology",
+      "size": "4.79MB",
+      "image": "https://github.com/technologysj72-stack/sj-app-store-releases/releases/download/gestor-pos-v2.0.0/gestor.POS.jpg",
+      "imageAsset": "gestor.POS.jpg",
+      "releaseTag": "gestor-pos-v2.0.0",
+      "releaseUrl": "https://github.com/technologysj72-stack/sj-app-store-releases/releases/tag/gestor-pos-v2.0.0",
+      "publishedAt": "2026-10-31T16:33:14Z",
+      "installers": {
+        "Android": {
+          "name": "gestor.POS.apk",
+          "url": "https://github.com/technologysj72-stack/sj-app-store-releases/releases/download/gestor-pos-v2.0.0/gestor.POS.apk",
+          "size": 5024542,
+          "downloadCount": 0,
+          "contentType": "application/vnd.android.package-archive"
+        }
+      },
+      "source": "github"
+    },
     {
       "id": "lembrete",
       "name": "Lembrete",
